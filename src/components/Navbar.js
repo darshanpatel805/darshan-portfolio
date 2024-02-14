@@ -38,7 +38,7 @@ const NavBar = () => {
       className={navColour ? "sticky" : "navbar"}
     >
       <Container>
-        <Navbar.Brand href="/darshan-portfoliow" className="d-flex">
+        <Navbar.Brand href="/darshan-portfolio" className="d-flex">
           <img src={logo} className="img-fluid logo" alt="brand"  />
         </Navbar.Brand>
         <Navbar.Toggle
