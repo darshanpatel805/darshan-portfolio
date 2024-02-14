@@ -33,7 +33,7 @@ const Footer = () => {
             </li>
             <li className="social-icons">
               <a
-                href="https://wa.me/9998677347"
+                href="https://wa.me/+919998677347"
                 style={{ color: "white" }}
                 target="_blank"
                 rel="noopener noreferrer"

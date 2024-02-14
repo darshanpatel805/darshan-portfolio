@@ -64,16 +64,16 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              {/* <li className="social-icons">
+              <li className="social-icons">
                 <a
-                  href="https://twitter.com/Soumyajit4419"
+                  href="https://wa.me/+919998677347"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
                 >
                   <AiOutlineWhatsApp />
                 </a>
-              </li> */}
+              </li>
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/DarshanGondaliya/"
